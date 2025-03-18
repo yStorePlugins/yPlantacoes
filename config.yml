@@ -42,6 +42,8 @@ Opcoes:
   Acumular bonus: false
   # Enviar recompensas para o menu de recompensas
   RecompensasMenu: true
+  # Skill do herbalismo no seu mcMMO/AuraSkills
+  Herbalismo: 'HERBALISM'
   # Formatador de mensagens
   Formatador:
     Bonus tem: '&a+{bonus}% por ser {display}&a.'
