@@ -23,8 +23,10 @@ Opcoes:
     - 'nenhum'
   # Ao quebrar com uma enxada no shift não executar o evento do plugin
   ShiftEnxadaBypass: true
-  # Ao quebrar com uma plantação não crescida (sem shift) irá executar o evento padrão do bukkit (caso esteja sem a enxada na mão)
+  # Ao quebrar uma plantação não crescida (sem shift) irá executar o evento padrão do bukkit (caso esteja sem a enxada na mão)
   NoShiftNoCrescidoBypass: false
+  # Ao quebrar uma plantação caso esteja sem a enxada na mão (sem shift) irá executar o evento padrão do bukkit.
+  NoShiftBypass: false
   # Ao quebrar no modo criativo não executar o evento do plugin
   CriativoBypass: true
   # Fazer com que a Enxada nunca quebre
